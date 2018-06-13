@@ -26,9 +26,11 @@ namespace myconsoleapp
                 PetalWidth= 5.1f
             });
 
-            Console.WriteLine(prediction.Score[0]);
-            Console.WriteLine(prediction.Score[1]);
-            Console.WriteLine(prediction.Score[2]);
+            Console.WriteLine();
+            Console.WriteLine($"Actual: setosa.     Predicted probability: setosa:      {prediction.Score[0]:0.####}");
+            Console.WriteLine($"                                           versicolor:  {prediction.Score[1]:0.####}");
+            Console.WriteLine($"                                           virginica:   {prediction.Score[2]:0.####}");
+            Console.WriteLine();
         }
 
         static async Task<PredictionModel<IrisData,IrisPrediction>> TrainAsync()
