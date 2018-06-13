@@ -1,0 +1,844 @@
+{
+    "Data": [
+        {
+            "Label": 0,
+            "Sepal length": 3.7,
+            "Sepal width": 1.5,
+            "Petal length": 0.2,
+            "Petal width": 5.4
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.6,
+            "Petal length": 0.2,
+            "Petal width": 4.8
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3,
+            "Sepal width": 1.4,
+            "Petal length": 0.1,
+            "Petal width": 4.8
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3,
+            "Sepal width": 1.1,
+            "Petal length": 0.1,
+            "Petal width": 4.3
+        },
+        {
+            "Label": 0,
+            "Sepal length": 4,
+            "Sepal width": 1.2,
+            "Petal length": 0.2,
+            "Petal width": 5.8
+        },
+        {
+            "Label": 0,
+            "Sepal length": 4.4,
+            "Sepal width": 1.5,
+            "Petal length": 0.4,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.9,
+            "Sepal width": 1.3,
+            "Petal length": 0.4,
+            "Petal width": 5.4
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.5,
+            "Sepal width": 1.4,
+            "Petal length": 0.3,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.8,
+            "Sepal width": 1.7,
+            "Petal length": 0.3,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.8,
+            "Sepal width": 1.5,
+            "Petal length": 0.3,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.7,
+            "Petal length": 0.2,
+            "Petal width": 5.4
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.7,
+            "Sepal width": 1.5,
+            "Petal length": 0.4,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.6,
+            "Sepal width": 1,
+            "Petal length": 0.2,
+            "Petal width": 4.6
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.3,
+            "Sepal width": 1.7,
+            "Petal length": 0.5,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.9,
+            "Petal length": 0.2,
+            "Petal width": 4.8
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3,
+            "Sepal width": 1.6,
+            "Petal length": 0.2,
+            "Petal width": 5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.6,
+            "Petal length": 0.4,
+            "Petal width": 5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.5,
+            "Sepal width": 1.5,
+            "Petal length": 0.2,
+            "Petal width": 5.2
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.4,
+            "Petal length": 0.2,
+            "Petal width": 5.2
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.2,
+            "Sepal width": 1.6,
+            "Petal length": 0.2,
+            "Petal width": 4.7
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.1,
+            "Sepal width": 1.6,
+            "Petal length": 0.2,
+            "Petal width": 4.8
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.5,
+            "Petal length": 0.4,
+            "Petal width": 5.4
+        },
+        {
+            "Label": 0,
+            "Sepal length": 4.1,
+            "Sepal width": 1.5,
+            "Petal length": 0.1,
+            "Petal width": 5.2
+        },
+        {
+            "Label": 0,
+            "Sepal length": 4.2,
+            "Sepal width": 1.4,
+            "Petal length": 0.2,
+            "Petal width": 5.5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.1,
+            "Sepal width": 1.5,
+            "Petal length": 0.1,
+            "Petal width": 4.9
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.2,
+            "Sepal width": 1.2,
+            "Petal length": 0.2,
+            "Petal width": 5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.5,
+            "Sepal width": 1.3,
+            "Petal length": 0.2,
+            "Petal width": 5.5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.1,
+            "Sepal width": 1.5,
+            "Petal length": 0.1,
+            "Petal width": 4.9
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3,
+            "Sepal width": 1.3,
+            "Petal length": 0.2,
+            "Petal width": 4.4
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.4,
+            "Sepal width": 1.5,
+            "Petal length": 0.2,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.5,
+            "Sepal width": 1.3,
+            "Petal length": 0.3,
+            "Petal width": 5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 2.3,
+            "Sepal width": 1.3,
+            "Petal length": 0.3,
+            "Petal width": 4.5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.2,
+            "Sepal width": 1.3,
+            "Petal length": 0.2,
+            "Petal width": 4.4
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.5,
+            "Sepal width": 1.6,
+            "Petal length": 0.6,
+            "Petal width": 5
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.8,
+            "Sepal width": 1.9,
+            "Petal length": 0.4,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3,
+            "Sepal width": 1.4,
+            "Petal length": 0.3,
+            "Petal width": 4.8
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.8,
+            "Sepal width": 1.6,
+            "Petal length": 0.2,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.2,
+            "Sepal width": 1.4,
+            "Petal length": 0.2,
+            "Petal width": 4.6
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.7,
+            "Sepal width": 1.5,
+            "Petal length": 0.2,
+            "Petal width": 5.3
+        },
+        {
+            "Label": 0,
+            "Sepal length": 3.3,
+            "Sepal width": 1.4,
+            "Petal length": 0.2,
+            "Petal width": 5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2,
+            "Sepal width": 3.5,
+            "Petal length": 1,
+            "Petal width": 5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.2,
+            "Petal length": 1.5,
+            "Petal width": 5.9
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.2,
+            "Sepal width": 4,
+            "Petal length": 1,
+            "Petal width": 6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.9,
+            "Sepal width": 4.7,
+            "Petal length": 1.4,
+            "Petal width": 6.1
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.9,
+            "Sepal width": 3.6,
+            "Petal length": 1.3,
+            "Petal width": 5.6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3.1,
+            "Sepal width": 4.4,
+            "Petal length": 1.4,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.5,
+            "Petal length": 1.5,
+            "Petal width": 5.6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.7,
+            "Sepal width": 4.1,
+            "Petal length": 1,
+            "Petal width": 5.8
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.2,
+            "Sepal width": 4.5,
+            "Petal length": 1.5,
+            "Petal width": 6.2
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.5,
+            "Sepal width": 3.9,
+            "Petal length": 1.1,
+            "Petal width": 5.6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3.2,
+            "Sepal width": 4.8,
+            "Petal length": 1.8,
+            "Petal width": 5.9
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.8,
+            "Sepal width": 4,
+            "Petal length": 1.3,
+            "Petal width": 6.1
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.5,
+            "Sepal width": 4.9,
+            "Petal length": 1.5,
+            "Petal width": 6.3
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.8,
+            "Sepal width": 4.7,
+            "Petal length": 1.2,
+            "Petal width": 6.1
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.9,
+            "Sepal width": 4.3,
+            "Petal length": 1.3,
+            "Petal width": 6.4
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.4,
+            "Petal length": 1.4,
+            "Petal width": 6.6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.8,
+            "Sepal width": 4.8,
+            "Petal length": 1.4,
+            "Petal width": 6.8
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 5,
+            "Petal length": 1.7,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.9,
+            "Sepal width": 4.5,
+            "Petal length": 1.5,
+            "Petal width": 6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.6,
+            "Sepal width": 3.5,
+            "Petal length": 1,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.4,
+            "Sepal width": 3.8,
+            "Petal length": 1.1,
+            "Petal width": 5.5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.4,
+            "Sepal width": 3.7,
+            "Petal length": 1,
+            "Petal width": 5.5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.7,
+            "Sepal width": 3.9,
+            "Petal length": 1.2,
+            "Petal width": 5.8
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.7,
+            "Sepal width": 5.1,
+            "Petal length": 1.6,
+            "Petal width": 6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.5,
+            "Petal length": 1.5,
+            "Petal width": 5.4
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3.4,
+            "Sepal width": 4.5,
+            "Petal length": 1.6,
+            "Petal width": 6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3.1,
+            "Sepal width": 4.7,
+            "Petal length": 1.5,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.3,
+            "Sepal width": 4.4,
+            "Petal length": 1.3,
+            "Petal width": 6.3
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.1,
+            "Petal length": 1.3,
+            "Petal width": 5.6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.5,
+            "Sepal width": 4,
+            "Petal length": 1.3,
+            "Petal width": 5.5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.6,
+            "Sepal width": 4.4,
+            "Petal length": 1.2,
+            "Petal width": 5.5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.6,
+            "Petal length": 1.4,
+            "Petal width": 6.1
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.6,
+            "Sepal width": 4,
+            "Petal length": 1.2,
+            "Petal width": 5.8
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.3,
+            "Sepal width": 3.3,
+            "Petal length": 1,
+            "Petal width": 5
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.7,
+            "Sepal width": 4.2,
+            "Petal length": 1.3,
+            "Petal width": 5.6
+        },
+        {
+            "Label": 1,
+            "Sepal length": 3,
+            "Sepal width": 4.2,
+            "Petal length": 1.2,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.9,
+            "Sepal width": 4.2,
+            "Petal length": 1.3,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.9,
+            "Sepal width": 4.3,
+            "Petal length": 1.3,
+            "Petal width": 6.2
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.5,
+            "Sepal width": 3,
+            "Petal length": 1.1,
+            "Petal width": 5.1
+        },
+        {
+            "Label": 1,
+            "Sepal length": 2.8,
+            "Sepal width": 4.1,
+            "Petal length": 1.3,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.2,
+            "Sepal width": 5.1,
+            "Petal length": 2,
+            "Petal width": 6.5
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.7,
+            "Sepal width": 5.3,
+            "Petal length": 1.9,
+            "Petal width": 6.4
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 5.5,
+            "Petal length": 2.1,
+            "Petal width": 6.8
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.5,
+            "Sepal width": 5,
+            "Petal length": 2,
+            "Petal width": 5.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 5.1,
+            "Petal length": 2.4,
+            "Petal width": 5.8
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.2,
+            "Sepal width": 5.3,
+            "Petal length": 2.3,
+            "Petal width": 6.4
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 5.5,
+            "Petal length": 1.8,
+            "Petal width": 6.5
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.8,
+            "Sepal width": 6.7,
+            "Petal length": 2.2,
+            "Petal width": 7.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.6,
+            "Sepal width": 6.9,
+            "Petal length": 2.3,
+            "Petal width": 7.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.2,
+            "Sepal width": 5,
+            "Petal length": 1.5,
+            "Petal width": 6
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.2,
+            "Sepal width": 5.7,
+            "Petal length": 2.3,
+            "Petal width": 6.9
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 4.9,
+            "Petal length": 2,
+            "Petal width": 5.6
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 6.7,
+            "Petal length": 2,
+            "Petal width": 7.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.7,
+            "Sepal width": 4.9,
+            "Petal length": 1.8,
+            "Petal width": 6.3
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.3,
+            "Sepal width": 5.7,
+            "Petal length": 2.1,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.2,
+            "Sepal width": 6,
+            "Petal length": 1.8,
+            "Petal width": 7.2
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 4.8,
+            "Petal length": 1.8,
+            "Petal width": 6.2
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 4.9,
+            "Petal length": 1.8,
+            "Petal width": 6.1
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 5.6,
+            "Petal length": 2.1,
+            "Petal width": 6.4
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 5.8,
+            "Petal length": 1.6,
+            "Petal width": 7.2
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 6.1,
+            "Petal length": 1.9,
+            "Petal width": 7.4
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.8,
+            "Sepal width": 6.4,
+            "Petal length": 2,
+            "Petal width": 7.9
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 5.6,
+            "Petal length": 2.2,
+            "Petal width": 6.4
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.8,
+            "Sepal width": 5.1,
+            "Petal length": 1.5,
+            "Petal width": 6.3
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.6,
+            "Sepal width": 5.6,
+            "Petal length": 1.4,
+            "Petal width": 6.1
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 6.1,
+            "Petal length": 2.3,
+            "Petal width": 7.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.4,
+            "Sepal width": 5.6,
+            "Petal length": 2.4,
+            "Petal width": 6.3
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.1,
+            "Sepal width": 5.5,
+            "Petal length": 1.8,
+            "Petal width": 6.4
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 4.8,
+            "Petal length": 1.8,
+            "Petal width": 6
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.1,
+            "Sepal width": 5.4,
+            "Petal length": 2.1,
+            "Petal width": 6.9
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.1,
+            "Sepal width": 5.6,
+            "Petal length": 2.4,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.1,
+            "Sepal width": 5.1,
+            "Petal length": 2.3,
+            "Petal width": 6.9
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.7,
+            "Sepal width": 5.1,
+            "Petal length": 1.9,
+            "Petal width": 5.8
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.2,
+            "Sepal width": 5.9,
+            "Petal length": 2.3,
+            "Petal width": 6.8
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.3,
+            "Sepal width": 5.7,
+            "Petal length": 2.5,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 5.2,
+            "Petal length": 2.3,
+            "Petal width": 6.7
+        },
+        {
+            "Label": 2,
+            "Sepal length": 2.5,
+            "Sepal width": 5,
+            "Petal length": 1.9,
+            "Petal width": 6.3
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 5.2,
+            "Petal length": 2,
+            "Petal width": 6.5
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3.4,
+            "Sepal width": 5.4,
+            "Petal length": 2.3,
+            "Petal width": 6.2
+        },
+        {
+            "Label": 2,
+            "Sepal length": 3,
+            "Sepal width": 5.1,
+            "Petal length": 1.8,
+            "Petal width": 5.9
+        }
+    ]
+}
