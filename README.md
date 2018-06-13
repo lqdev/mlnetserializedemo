@@ -1,6 +1,6 @@
 # ML.NET Serialization Example
 
-This repo is a sample application that shows how to use the newly introduced CollectionDataSource feature to load in data from files or System Collections.
+This repo is a sample application that shows how to use the newly introduced CollectionDataSource feature to load in data from files or System Collections. This is based off the [MulticlassClassification_Iris](https://github.com/dotnet/machinelearning-samples/tree/master/samples/getting-started/MulticlassClassification_Iris) sample on GitHub.
 
 ## Requirements
 
